@@ -1,0 +1,14 @@
+{
+  "name": "word-chain-cli",
+  "version": "1.0.0",
+  "description": "Terminal word chain game (接龙游戏)",
+  "main": "index.js",
+  "bin": {
+    "word-chain": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["game", "cli", "word-chain"],
+  "license": "MIT"
+}
