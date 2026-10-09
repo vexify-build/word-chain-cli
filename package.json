@@ -9,6 +9,13 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["game", "cli", "word-chain"],
-  "license": "MIT"
+  "keywords": [
+    "game",
+    "cli",
+    "word-chain"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
 }
